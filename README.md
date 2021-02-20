@@ -1,2 +1,3 @@
 # docker-portainer
-docker compose for portainer
+
+[docker-compose.yml](docker-compose.yml) for Portainer
